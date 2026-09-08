@@ -1,0 +1,2 @@
+{"name":"neo-beta-v2","private":true,"version":"2.0.0","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
+
